@@ -30,6 +30,6 @@ Hotel owners can manage their **properties, rooms, and reservations** through an
 - **Database:** MongoDB (Mongoose ORM)  
 - **Authentication:** Clerk  
 - **State Management:** React Hooks / Context API (or Redux if applied)  
-- **Deployment:** *(Add here if deployed – e.g., Vercel/Netlify for frontend, Render/Heroku for backend)*  
+- **Deployment:** *(Coming Soon...)*  
 
 ---
