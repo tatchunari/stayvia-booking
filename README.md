@@ -27,9 +27,9 @@ Hotel owners can manage their **properties, rooms, and reservations** through an
 
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Mongoose ORM)  
+- **Database:** MongoDB
 - **Authentication:** Clerk  
-- **State Management:** React Hooks / Context API (or Redux if applied)  
+- **State Management:** React Hooks / Context API
 - **Deployment:** *(Coming Soon...)*  
 
 ---
